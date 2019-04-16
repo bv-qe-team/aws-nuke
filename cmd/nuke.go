@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/rebuy-de/aws-nuke/pkg/awsutil"
-	"github.com/rebuy-de/aws-nuke/pkg/config"
+	"github.com/bv-qe-team/aws-nuke/pkg/config"
 	"github.com/rebuy-de/aws-nuke/pkg/types"
 	"github.com/rebuy-de/aws-nuke/resources"
 	"github.com/sirupsen/logrus"
