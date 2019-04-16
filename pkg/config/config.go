@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/bv-qe-team/aws-nuke/pkg/types"
+	"github.com/rebuy-de/aws-nuke/pkg/types"
 
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v2"
